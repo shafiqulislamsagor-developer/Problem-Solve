@@ -10,3 +10,7 @@ M. Capital or Small or Digit
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
 K. Max and Min 
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
+D. Difference
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
+C. Simple Calculator
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
