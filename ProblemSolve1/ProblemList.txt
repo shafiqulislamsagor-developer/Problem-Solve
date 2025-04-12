@@ -1,16 +1,16 @@
-I. Welcome for you with Conditions 
+1 I. Welcome for you with Conditions 
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
-J. Multiples 
+2 J. Multiples 
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
-P. First digit ! 
+3 P. First digit ! 
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
-N. Char 
+4 N. Char 
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
-M. Capital or Small or Digit 
+5 M. Capital or Small or Digit 
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
-K. Max and Min 
+6 K. Max and Min 
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
-D. Difference
+7 D. Difference
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
-C. Simple Calculator
+8 C. Simple Calculator
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
