@@ -2,6 +2,7 @@
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
     "stdint.h": "c",
-    "minmax.h": "c"
+    "minmax.h": "c",
+    "stdio.h": "c"
   }
 }
