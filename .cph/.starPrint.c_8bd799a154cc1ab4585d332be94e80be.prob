@@ -1,0 +1,1 @@
+{"name":"Local: starPrint","url":"c:\\CodeInfinity-Dev\\New folder\\Daily Problem Solve\\starPrint.c","tests":[{"id":1746281933566,"input":"5","output":"*\n**\n***\n****\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CodeInfinity-Dev\\New folder\\Daily Problem Solve\\starPrint.c","group":"local","local":true}
